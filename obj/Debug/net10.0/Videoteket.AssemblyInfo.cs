@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Videoteket")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d950c66617d84eb37b259372071e2eee35ccf172")]
 [assembly: System.Reflection.AssemblyProductAttribute("Videoteket")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Videoteket")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

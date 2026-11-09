@@ -1,0 +1,15 @@
+C:\Users\lskha\Documents\SUVNET\OOP1\Videoteket\bin\Debug\net10.0\Videoteket.exe
+C:\Users\lskha\Documents\SUVNET\OOP1\Videoteket\bin\Debug\net10.0\Videoteket.deps.json
+C:\Users\lskha\Documents\SUVNET\OOP1\Videoteket\bin\Debug\net10.0\Videoteket.runtimeconfig.json
+C:\Users\lskha\Documents\SUVNET\OOP1\Videoteket\bin\Debug\net10.0\Videoteket.dll
+C:\Users\lskha\Documents\SUVNET\OOP1\Videoteket\bin\Debug\net10.0\Videoteket.pdb
+C:\Users\lskha\Documents\SUVNET\OOP1\Videoteket\obj\Debug\net10.0\Videoteket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lskha\Documents\SUVNET\OOP1\Videoteket\obj\Debug\net10.0\Videoteket.AssemblyInfoInputs.cache
+C:\Users\lskha\Documents\SUVNET\OOP1\Videoteket\obj\Debug\net10.0\Videoteket.AssemblyInfo.cs
+C:\Users\lskha\Documents\SUVNET\OOP1\Videoteket\obj\Debug\net10.0\Videoteket.csproj.CoreCompileInputs.cache
+C:\Users\lskha\Documents\SUVNET\OOP1\Videoteket\obj\Debug\net10.0\Videoteket.sourcelink.json
+C:\Users\lskha\Documents\SUVNET\OOP1\Videoteket\obj\Debug\net10.0\Videoteket.dll
+C:\Users\lskha\Documents\SUVNET\OOP1\Videoteket\obj\Debug\net10.0\refint\Videoteket.dll
+C:\Users\lskha\Documents\SUVNET\OOP1\Videoteket\obj\Debug\net10.0\Videoteket.pdb
+C:\Users\lskha\Documents\SUVNET\OOP1\Videoteket\obj\Debug\net10.0\Videoteket.genruntimeconfig.cache
+C:\Users\lskha\Documents\SUVNET\OOP1\Videoteket\obj\Debug\net10.0\ref\Videoteket.dll
